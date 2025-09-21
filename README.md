@@ -1,2 +1,7 @@
 # Fruits Game
-Game developed in Java during week 8 of the full-stack programming course.
+Game developed during week 8 of the full-stack programming course.
+
+Languages and technologies
+Java, External library: Simple Graphics.
+
+
